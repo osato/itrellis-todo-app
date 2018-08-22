@@ -1,0 +1,9 @@
+# node_modules directory
+node_modules/
+
+# log files
+logs
+*.log
+
+# lock files
+*.lock
